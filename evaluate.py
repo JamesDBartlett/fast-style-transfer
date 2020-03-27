@@ -2,7 +2,7 @@ from __future__ import print_function
 import sys
 sys.path.insert(0, 'src')
 import transform, numpy as np, vgg, pdb, os
-import scipy.misc
+import imageio
 import tensorflow as tf
 from utils import save_img, get_img, exists, list_files
 from argparse import ArgumentParser

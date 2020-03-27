@@ -13,6 +13,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Training images
+data/*
+
 # Mac Filesystem Cruft
 .DS_Store
 

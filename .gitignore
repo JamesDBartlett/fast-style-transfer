@@ -13,6 +13,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac Filesystem Cruft
+.DS_Store
+
 # C extensions
 *.so
 
